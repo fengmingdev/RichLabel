@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'RichLabel_Example' do
+  pod 'RichLabel', :path => '../'
+
+  target 'RichLabel_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
