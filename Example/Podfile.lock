@@ -1,0 +1,16 @@
+PODS:
+  - RichLabel (0.1.0)
+
+DEPENDENCIES:
+  - RichLabel (from `../`)
+
+EXTERNAL SOURCES:
+  RichLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RichLabel: 5e8185b61167416d02f2dcf88aad1466c199310e
+
+PODFILE CHECKSUM: 4da05d6a8321874553a53872f0c711788a924a47
+
+COCOAPODS: 1.12.1

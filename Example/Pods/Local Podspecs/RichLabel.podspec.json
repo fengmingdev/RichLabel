@@ -1,0 +1,22 @@
+{
+  "name": "RichLabel",
+  "version": "0.1.0",
+  "summary": "A short description of RichLabel.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/fengming/RichLabel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fengming": "1028708571@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/fengming/RichLabel.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "RichLabel/Classes/**/*"
+}
